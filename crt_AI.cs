@@ -7,7 +7,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
-using Unity.VisualScripting;
+//using Unity.VisualScripting;
 
 public class AI_Manager : MonoBehaviour
 {

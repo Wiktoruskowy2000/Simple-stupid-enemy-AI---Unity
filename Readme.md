@@ -1,1 +1,1 @@
-IDK wtf is that, code, but hes working :D
+This code is overcomplicated and useless, but hes working :D
